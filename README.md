@@ -3,4 +3,4 @@
 # Procedural-Terrain-Generator
 Procedural terrain generator made in Unity. The terrain is managed with chunks and is created with a 3D Perlin noise algorithm, which allows the program to generate also a cave system. Each block of the terrain is destructible. 
 
-At the moment, threads are not implemented, so the execution stops for a moment every time it generates a new chunk of terrain. 
+At the moment, threads are not implemented, so the execution freezes for a moment every time it generates a new chunk of terrain. 
